@@ -1,1 +1,1 @@
-print("anyt")
+print("ant")
