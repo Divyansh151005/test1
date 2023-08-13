@@ -1,2 +1,1 @@
-# test1
-starting git
+print("hello")
